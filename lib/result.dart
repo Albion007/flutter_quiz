@@ -14,7 +14,7 @@ class Result extends StatelessWidget {
     String message = '';
 
     if (totalPoints > 20) {
-      message = 'You are awesome!';
+      message = 'You are awesomeeee!';
     } else if (totalPoints > 15) {
       message = 'You are okay!';
     } else {
